@@ -1,0 +1,40 @@
+{
+  "post": [
+    {
+      "name": "dddddddddddddddd",
+      "email": "p",
+      "phone-no": "3",
+      "pin": "909",
+      "id": 1,
+      "prop": "prem"
+    },
+    {
+      "name": "giri",
+      "email": "giri@gmail.com",
+      "phone-no": "54345123",
+      "pin": "1221",
+      "id": 2
+    },
+    {
+      "name": "ramush",
+      "email": "12313",
+      "phone-no": "1111",
+      "pin": "010",
+      "id": 4
+    },
+    {
+      "name": "man",
+      "email": "love@org",
+      "phone-no": "0987654",
+      "pin": "090",
+      "id": 5
+    },
+    {
+      "name": "pup",
+      "email": "pup@gmail.com",
+      "phone-no": "22222222222",
+      "pin": "123",
+      "id": 6
+    }
+  ]
+}
